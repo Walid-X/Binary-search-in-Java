@@ -40,5 +40,3 @@ The program prompts you to enter the size of the array and the elements of the a
 Enjoy your exploration of binary search in Java!
 
 ---
-
-Don't forget to replace `"https://github.com/yourusername/binary-search-java.git"` with the actual URL of your GitHub repository. You should also replace "Your Name" with your name or the name of contributors.
